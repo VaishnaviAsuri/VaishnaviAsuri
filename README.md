@@ -1,5 +1,9 @@
 # 💫 About Me:
-Right now, I am working on building and improving dashboards and automation tools to help track project performance, manage vendors, and allocate resources for several important projects. I enjoy collaborating on projects that involve data integration, process automation, and creating reports that help teams make better decisions. I am currently learning more about cloud data pipelines, real-time analytics, and advanced data visualization. Please ask me about my experience with ETL pipelines, automating workflows, or designing dashboards. I am happy to share what I know and learn new ideas.
+Hi, I'm Vaishnavi!
+
+Right now, I am working on building and improving dashboards and automation tools to help track project performance, manage vendors, and allocate resources for several important projects. I usually enjoy collaborating on projects that involve data integration, process automation, and creating reports that help teams make better decisions. I am currently learning more about cloud data pipelines, real-time analytics, and advanced data visualization. 
+
+Feel free to ask me about my experience with ETL pipelines, automating workflows, or designing dashboards. I am happy to share what I know and learn new ideas!
 
 
 ## 🌐 Socials:
